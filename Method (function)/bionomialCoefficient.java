@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class binomialCoefficient {
+public class bionomialCoefficient {
    //n!
     public static int Factorial(int n) {
         int f =1;
